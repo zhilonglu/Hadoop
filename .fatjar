@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Sep 14 03:22:51 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\NLSDE\\Desktop\\MR\\0914_jar\\MRToMysql_0914_2(Not50).jar
+manifest.mergeall=true
+manifest.mainclass=Mysqlhadoop.MRDataToMysql
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

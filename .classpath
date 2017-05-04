@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/commons-configuration-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hadoop-common-2.7.1.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/lib/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/junit-4.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hadoop-mapreduce-client-common-2.7.1.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hadoop-mapreduce-client-core-2.7.1.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/jackson-core-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/jackson-databind-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hbase-common-1.1.2.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hbase-client-1.1.2.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hbase-examples-1.1.2.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hbase-examples-0.98.9-hadoop2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/commons-cli-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hbase-server-1.1.2.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hbase-protocol-1.1.2.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hbase-hadoop-compat-1.1.2.2.4.2.0-258.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/htrace-core-3.1.0-incubating.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/metrics-core-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/protobuf-java-2.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/slf4j-api-1.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/json_jar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/json_jar/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/json_jar/commons-httpclient-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/json_jar/commons-lang-2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/json_jar/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/json_jar/ezmorph-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/json_jar/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/json_jar/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hadoop-auth-2.7.1.2.4.2.0-258.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/hadoop-hdfs-2.7.1.2.4.2.0-258.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/libs/mysql/mysql-connector-java-5.1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/jackson/jackson-all-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/jackson/jackson-annotations-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/jackson/jackson-core-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/jackson/jackson-core-asl-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/jackson/jackson-databind-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NLSDE/Workspaces/MyEclipse 2015/jackson/jackson-mapper-asl-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
